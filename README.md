@@ -1,4 +1,4 @@
-<h1 align="center"> Kevin Choi 👋 </h1>
+<h1 align="center"> Kevin Choi 최기범👋 </h1>
 
 <!-- **kcdevdes/kcdevdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,16 +13,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-**I'm a CS student studying various things like Node.js, React.js, and Android (Kotlin)** 🌱
+**I'm a CS student studying various things like Node.js, React, and Android (Kotlin)** 🌱
+
+**현재 React, Node.js, Kotlin 등을 공부하고 있는 컴퓨터과학과 학생입니다** 🌱
+
+---
 
 I like talking and playing video games with my friends!⌨️ </br>Do you like ✨ _Rainbow 6 Siege_ ✨ by any chance?
 
+대화와 게임 하는 걸 좋아합니다 :) 혹시 ✨ _레인보우 식스 시즈_ ✨ 하시나요??
+
+</br>
+
 ## About me...
 
-- 🔭 I’m currently working on websites for my portfolio and blog with React.js.
+- 🔭 I’m currently working on websites for my portfolio and blog with React.
 - 🌱 I’m currently learning React.js, Node.js, AWS tech, and Javascript.
 - 🤔 I’m looking for someone to collaborate with!!
-- 💬 Ask me about anything you wonder.
+- 💬 Ask me anything you wonder.
+
+---
+
+- 🔭 현재 React 등을 이용해 포트폴리오 사이트를 개발해보고 있습니다.
+- 🌱 현재 React와 Node.js, AWS tech(EC2, elastic, etc..), Javascript등을 공부합니다.
+- 🤔 같이 프로젝트 하실 분 언제든 환영합니다 :)
+- 💬 궁금하신 내용은 언제든 문의주세요!
+
+</br>
+</br>
 
 ## I have used...
 
@@ -44,4 +62,6 @@ I like talking and playing video games with my friends!⌨️ </br>Do you like �
 
 ## Contact
 
-[Via Gmail](mailto:kcdevdes@gmail.com?subject=[GitHub])
+[Via Gmail | 지메일](mailto:kcdevdes@gmail.com?subject=[GitHub])
+
+[Via Instagram | 인스타그램](https://www.instagram.com/kevinchoi__dev/)
