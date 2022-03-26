@@ -1,5 +1,7 @@
 <h1 align="center"> Kevin Choi👋 </h1>
 
+> 현재 코딩 관련된 작업들을 외주받고 있습니다! **필요하시면 언제든 연락주세요**
+
 <!-- **kcdevdes/kcdevdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,13 +19,13 @@ Here are some ideas to get you started:
 
 **현재 React, Node.js, Kotlin 등을 공부하고 있는 컴퓨터과학과 학생입니다** 🌱
 
----
+<br />
 
 I like talking and playing video games with my friends!⌨️ </br>Do you like ✨ _Rainbow 6 Siege_ ✨ by any chance?
 
 대화와 게임 하는 걸 좋아합니다 :) 혹시 ✨ _레인보우 식스 시즈_ ✨ 하시나요??
 
-</br>
+<br />
 
 ## About me...
 
@@ -32,7 +34,7 @@ I like talking and playing video games with my friends!⌨️ </br>Do you like �
 - 🤔 I’m looking for someone to collaborate with!!
 - 💬 Ask me anything you wonder.
 
----
+<br />
 
 - 🔭 현재 React 등을 이용해 포트폴리오 사이트를 개발해보고 있습니다.
 - 🌱 현재 React와 Node.js, AWS tech(EC2, elastic, etc..), Javascript등을 공부합니다.
