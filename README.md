@@ -1,7 +1,5 @@
 <h1 align="center"> Kevin Choi👋 </h1>
 
-> 현재 코딩 관련된 작업들을 외주받고 있습니다! **필요하시면 언제든 연락주세요**
-
 <!-- **kcdevdes/kcdevdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
+
+### <mark style='background-color: #28a745'> **현재 코딩 관련된 작업들을 외주받고 있습니다! 필요하시면 언제든 연락주세요** </mark>
 
 **I'm a CS student studying various things like Node.js, React, and Android (Kotlin)** 🌱
 
