@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <br />
 
-I like talking and playing video games with my friends!⌨️ </br>Do you like ✨ _Rainbow 6 Siege_ ✨ by any chance?
+I enjoy talking and playing video games with my friends!⌨️ 
 
 <br />
 
 ## About me...
 
-- 🔭 I’m currently working on Android Application with Kotlin
-- 🌱 I’m currently learning Kotlin, Android, Node.js, AWS tech, and Javascript.
+- 🔭 I’m currently working on React and Android programming.
+- 🌱 I’m currently learning React.js, Kotlin, Android, Node.js, AWS tech, and Javascript.
 - 🤔 I’m looking for someone to collaborate with!!
 - 💬 Ask me anything you wonder.
 
@@ -53,4 +53,4 @@ I like talking and playing video games with my friends!⌨️ </br>Do you like �
 
 [Via Gmail](mailto:kcdevdes@gmail.com?subject=[GitHub])
 
-[Via Instagram](https://www.instagram.com/kevinchoi__dev/)
+[Via Instagram](https://www.instagram.com/kevinchoi_dev/)
