@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-I enjoy talking and playing video games with my friends!⌨️ 
+I enjoy talking and playing video games with my friends!⌨️
 
 <br />
 
@@ -54,3 +54,7 @@ I enjoy talking and playing video games with my friends!⌨️
 [Via Gmail](mailto:kcdevdes@gmail.com?subject=[GitHub])
 
 [Via Instagram](https://www.instagram.com/kevinchoi_dev/)
+
+## Algorithm Training
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)

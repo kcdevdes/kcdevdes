@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-대화와 게임 하는 걸 좋아합니다! ⌨️ 
+대화와 게임 하는 걸 좋아합니다! ⌨️
 
 <br />
 
@@ -55,3 +55,7 @@ Here are some ideas to get you started:
 [Gmail | 지메일](mailto:kcdevdes@gmail.com?subject=[GitHub])
 
 [Instagram | 인스타그램](https://www.instagram.com/kevinchoi_dev/)
+
+## 알고리즘 트레이닝
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)
