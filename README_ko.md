@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-**저는 현재 Node.js, React, Android(Kotlin) 등 다양한 것을 공부하는 CS 학생입니다.** 🌱
+**저는 현재 Node.js, React, Android(Kotlin) 등 다양한 것을 공부하는 컴퓨터공학과 학생입니다.** 🌱
 <br/>
 친구들과 이야기하고 비디오 게임을 하는 것을 좋아해요!⌨️
 <br />
