@@ -1,4 +1,8 @@
-<h1 align="center"> Kevin Choi 👋 </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=efe0ff&height=300&section=header&text=Kevin Choi&fontSize=70" />
+</p>
+
+[한국어](https://github.com/kcdevdes/kcdevdes/blob/main/README_ko.md)
 
 <!-- **kcdevdes/kcdevdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  -->
 
 **I'm a CS student studying various things like Node.js, React, and Android (Kotlin)** 🌱
-
-<br />
-
+<br/>
 I enjoy talking and playing video games with my friends!⌨️
-
 <br />
-
 ## About me...
 
 - 🔭 I’m currently working on React and Android programming.
@@ -29,6 +29,16 @@ I enjoy talking and playing video games with my friends!⌨️
 - 💬 Ask me anything you wonder.
 
 </br>
+
+## Algorithm Training
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)
+
+## My GitHub Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcdevdes&layout=compact)](https://github.com/kcdevdes/github-readme-stats) 
+![kcdevdes's github stats](https://github-readme-stats.vercel.app/api?username=kcdevdes&show_icons=true&theme=tokyonight)
+
 
 ## I have used...
 
@@ -46,6 +56,7 @@ I enjoy talking and playing video games with my friends!⌨️
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
 
@@ -54,7 +65,3 @@ I enjoy talking and playing video games with my friends!⌨️
 [Via Gmail](mailto:kcdevdes@gmail.com?subject=[GitHub])
 
 [Via Instagram](https://www.instagram.com/kevinchoi_dev/)
-
-## Algorithm Training
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)
