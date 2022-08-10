@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=efe0ff&height=300&section=header&text=Kevin Choi&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=efe0ff&height=300&section=header&text=Kevin%20Choi&fontSize=90" />
 </p>
 
 [English](https://github.com/kcdevdes/kcdevdes/blob/main/README.md)
