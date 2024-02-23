@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-**I'm a CS student at UMass Boston** 🌱
+**Hi! I am Gibeom Choi from South Korea. I'm a CS student at UMass Boston** 🌱
 <br/>
 I enjoy talking and playing video games 🎮⌨️
 <br />
@@ -61,6 +61,11 @@ I enjoy talking and playing video games 🎮⌨️
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
+
+## Achievements
+
+<b>1. Boston Bridge Hackaton Winner</b> </br>
+I won the Boston Bridge Hackaton held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
 
 ## Contact
 
