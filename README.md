@@ -30,6 +30,16 @@ I enjoy talking and playing video games 🎮⌨️
 
 </br>
 
+## Achievements
+
+<b>1. Boston Bridge Hackaton Winner</b> </br>
+My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
+
+## Contact
+
+<a href="mailto:kcdevdes@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/g_choi001"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
 ## Problem Solving (BOJ & LeetCode)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)
@@ -61,13 +71,3 @@ I enjoy talking and playing video games 🎮⌨️
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
-
-## Achievements
-
-<b>1. Boston Bridge Hackaton Winner</b> </br>
-My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
-
-## Contact
-
-<a href="mailto:kcdevdes@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/g_choi001"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
