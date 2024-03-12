@@ -65,7 +65,7 @@ I enjoy talking and playing video games 🎮⌨️
 ## Achievements
 
 <b>1. Boston Bridge Hackaton Winner</b> </br>
-My team won the Boston Bridge Hackaton held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
+My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
 
 ## Contact
 
