@@ -28,6 +28,7 @@ I enjoy talking and playing video games 🎮⌨️
 - 🤔 I’m looking for someone to collaborate with!
 - 💬 Ask me anything you wonder.
 
+If you wanna see what I have done, please visit [my blog](https://kcdevdes.com/).
 </br>
 
 ## Achievements
@@ -37,8 +38,9 @@ My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts,
 
 ## Contact
 
-<a href="mailto:kcdevdes@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/g_choi001"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://kcdevdes.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white&label=My blog"/></a>
+<a href="mailto:kcdevdes@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&label=My Gmail"/></a>
+<a href="https://instagram.com/g_choi001"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&label=My Instagram"/></a>
 
 ## Problem Solving (BOJ & LeetCode)
 
