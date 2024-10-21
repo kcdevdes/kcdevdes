@@ -24,7 +24,7 @@ I enjoy talking and playing video games 🎮⌨️
 ## About me...
 
 - 🔭 I’m currently working on my project.
-- 🌱 I’m currently learning `Nest.js (TypeScript)`, and `Flutter`.
+- 🌱 I’m currently learning `Nest.js (TypeScript)`, and `Spring Boot (Mainly Java, Kotlin)`.
 - 🤔 I’m looking for someone to collaborate with!
 - 💬 Ask me anything you wonder.
 
