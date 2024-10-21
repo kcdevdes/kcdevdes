@@ -52,6 +52,7 @@ My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcdevdes&layout=compact)](https://github.com/kcdevdes/github-readme-stats) 
 ![kcdevdes's github stats](https://github-readme-stats.vercel.app/api?username=kcdevdes&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kcdevdes&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## I have used...
