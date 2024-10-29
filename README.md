@@ -24,7 +24,7 @@ I enjoy talking and playing video games 🎮⌨️
 ## About me...
 
 - 🔭 I’m currently working on my project.
-- 🌱 I’m currently learning `Nest.js (TypeScript)`, and `Spring Boot (Mainly Java, Kotlin)`.
+- 🌱 I’m currently learning `Next.js (TypeScript)`, and `Spring Boot (Java)`.
 - 🤔 I’m looking for someone to collaborate with!
 - 💬 Ask me anything you wonder.
 
@@ -63,7 +63,7 @@ My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts,
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> <b>Spring Boot & Data Structure & Android</b> </br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <b>iOS Programming</b> </br>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> <b>Nest.js</b> </br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <b>Backend</b> </br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <b>Backend Application</b> </br>
 
 
 ## I'm learning...
@@ -71,6 +71,7 @@ My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts,
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
