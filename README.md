@@ -26,7 +26,7 @@ I enjoy talking and playing video games 🎮⌨️
 - 🔭 I’m currently working on my project.
 - 🌱 I’m currently learning `Next.js (TypeScript)`, and `Spring Boot (Java/Kotlin)`.
 - 🤔 I’m looking for someone to collaborate with!
-- 💬 Ask me anything you wonder.
+- 💬 Ask me anything you are curious about.
 
 Please visit [my blog](https://velog.io/@kcdevdes) to watch my history and projects.
 </br>
