@@ -17,47 +17,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-**Hi! I am Gibeom Choi from South Korea. I'm a CS student at UMass Boston** 🌱
+**Hi! I am Gibeom Choi from South Korea. I am a Backend Developer** 🌱
 <br/>
 I enjoy talking and playing video games 🎮⌨️
 <br />
-## About me...
+## 🔥 About me...
 
 - 🔭 I’m currently working on my project.
-- 🌱 I’m currently learning `Next.js (TypeScript)`, and `iOS (Swift)`.
+- 🌱 I’m currently learning `Next.js (TypeScript)`, and `Spring Boot (Java/Kotlin)`.
 - 🤔 I’m looking for someone to collaborate with!
 - 💬 Ask me anything you wonder.
 
-If you wanna see what I have done, please visit [my blog](https://kcdevdes.com/).
+Please visit [my blog](https://velog.io/@kcdevdes) to watch my history and projects.
 </br>
 
-## Achievements
+## 📚 Education
+<b>Bachelor's in Computer Science at [University of Massachusetts Boston](https://www.umb.edu/)</b> </br>
+January 2022 - December 2025
 
-<b>1. Boston Bridge Hackaton Winner</b> </br>
+## 🥇 Achievements
+
+<b>1. Boston Bridge Hackaton Winner</b> - Feb, 2024</br>
 My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts, Boston. [Here](https://github.com/BeeLeDev/PinPong) is the link.
 
-<!--
-## Contact
+<b>2. Participation in UMass Hack Hackathon</b> - Nov 2024 </br>
+My team participated in UMass Hack Hackathon held by University of Massachusetts, Amherst. [Here](https://github.com/kcdevdes/Peg) is the link.
 
-<a href="https://kcdevdes.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white&label=My blog"/></a>
-<a href="mailto:kcdevdes@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&label=My Gmail"/></a>
-<a href="https://instagram.com/g_choi001"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&label=My Instagram"/></a>
--->
+<b>3. Comprehensive Scholarship Recipient</b> - Dec 2024</br>
+I got awarded for Outstanding Academic and Technical Excellence and recognized for exceptional performance in software development and engineering projects.
 
-## Problem Solving (BOJ & LeetCode)
+<b>4. National Grid Scholarship Recipient</b> - Feb 2025</br>
+I got awarded for Outstanding Academic and Technical Excellence and high comprehension of National Grid Clean Energy.
+
+## 🚀 Algorithm Solving (Baekjoon Online Judge - Korean algoirithm practice website)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcdevdes)](https://solved.ac/kcdevdes/)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kcdevdes)](https://leetcode.com/kcdevdes)
 
-
-## My GitHub Status
+## 🌱 My GitHub Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcdevdes&layout=compact)](https://github.com/kcdevdes/github-readme-stats) 
-![kcdevdes's github stats](https://github-readme-stats.vercel.app/api?username=kcdevdes&show_icons=true&theme=tokyonight)
+<!--![kcdevdes's github stats](https://github-readme-stats.vercel.app/api?username=kcdevdes&show_icons=true&theme=tokyonight)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=kcdevdes&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 
-## I have used...
+## 💻 I have used...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <b>Problem Solving</b> </br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <b>iOS Programming</b> </br>
@@ -68,14 +71,19 @@ My team won the Boston Bridge Hackaton 2024 held by University of Massachusetts,
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <b>Backend Application</b> </br>
 
 
-## I'm learning...
-
-<!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> -->
+## 📝 I'm learning...
 <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><b>Spring Boot</b> </br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/><b>Kotlin</b> </br>
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/iOS-%3Ccolor%3E?style=style=flat-square&logo=apple"></a>
-<img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white"></a>
-
+<!-- <img src="https://img.shields.io/badge/iOS-%3Ccolor%3E?style=style=flat-square&logo=apple"></a> -->
+<!-- <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white"></a> -->
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
+
+## 📫 Contact
+
+- Email: kcdevdes@gmail.com
+- Blog: [Velog](https://velog.io/@kcdevdes)
+- LinkedIn: [g-choi001](https://linkedin.com/in/g-choi001)
+- X: [kcdevdes](https://x.com/kcdevdes)
